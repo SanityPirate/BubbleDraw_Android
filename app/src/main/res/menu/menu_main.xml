@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.bubbledraw.MainActivity">
+    <item
+        android:id="@+id/action_clear"
+        android:title="Clear Screen" />
+    <item
+        android:id="@+id/action_drawMode"
+        android:checkable="true"
+        android:title="Draw Mode" />
+    <item
+        android:id="@+id/action_about"
+        android:title="About" />
+</menu>
