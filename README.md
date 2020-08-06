@@ -23,5 +23,7 @@ Once I finished the application, I wanted to add some additional functionality w
 draw with the bubbles instead of them randomly floating around the screen. I did this by removing the physics from the bubbles in this mode. I also made it so 
 exiting the mode would return the physics to the bubbles for a neat effect.
 
+I also added a "Clear Screen" option that would remove all the bubbles from the screen so the user could start over without having to exit the application.
+
 ## Video
 [![Watch the video](https://user-images.githubusercontent.com/32273966/89475774-e9ecf000-d756-11ea-8117-a583bbb9a77c.PNG)](https://www.youtube.com/watch?v=KVI5XeZlLUg)
