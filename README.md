@@ -5,7 +5,7 @@
 I created this android application by following the tutorial in Bryson Payne's book, "Learn Java the Easy Way". I went through his book while I was taking courses in
 Java in order to better familiarize myself with the langauge and to also learn how to develop my own Android applications. Additionally, 
 completing this project made it a lot easier to understand object-oriented programming. I also got to work with Android Studio and learn how to design application
-layouts with it. In the future, I would like to develop a game for the Android platform and publish it to the Google Play store. 
+layouts with it. In the future, I'm hoping to develop a game for the Android platform and publish it to the Google Play store. 
 
 ## Challenges and Improvements
 
